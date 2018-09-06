@@ -49,6 +49,7 @@ export default {
       childWords: '', // 从子组件传过来的值也得在data中初始化
       post: {
         id: 1,
+        name: 'xiaoming'
         title: 'msg from father component'
       }
     }
